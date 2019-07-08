@@ -12,5 +12,6 @@
   "dependencies": {
     "axios": "^0.19.0",
     "prpr-lerna-core": "^1.0.0"
-  }
+  },
+  "gitHead": "6c21786307226020d790bfcc3bf84f2f7488964f"
 }
